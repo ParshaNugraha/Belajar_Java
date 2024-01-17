@@ -18,7 +18,6 @@ public class List {
 
         int harga = 0;
 
-
         switch (pilihan) {
             case 1:
                 harga = 15000;
